@@ -1,16 +1,21 @@
-# imc
+# Calculadora de IMC
 
-A new Flutter project.
+Este foi um projeto pessoal feito para realizar o cálculo de [IMC](https://www.tuasaude.com/imc/) (índice de massa corporal). 
 
-## Getting Started
+## Informações adicionais
 
-This project is a starting point for a Flutter application.
+O app foi desenvolvido utilizando o framework Flutter.
+Para executa-lo é necessário ter um emulador e o framework instalado em sua máquina.
 
-A few resources to get you started if this is your first Flutter project:
+### Dos comandos
+Crie uma pasta onde deseja salvar os arquivos do app.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Execute o comando:
+```
+git clone https://github.com/Pedrocoutof/Calculadora_de_IMC.git
+```
+Considerando que seu emulador já esteja configurado, basta executar o seguindo comando:
+```
+flutter run
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
